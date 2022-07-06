@@ -3,6 +3,7 @@ type Person = {
     id: string
     age: number
     height: number
+    weight: number
 }
 
 export {
