@@ -1,7 +1,7 @@
 type Person = {
     name: string
     id: string
-    age: string
+    age: number
 }
 
 export {
